@@ -1,6 +1,4 @@
-Here’s a **robust and professional `README.md`** for your **LLaMA Blog Generator** GitHub repo. It includes setup, usage, features, and even contribution guidelines:
 
----
 
 ```markdown
 # 📝 LLaMA Blog Generator
@@ -116,6 +114,7 @@ If you found this project useful, please ⭐ star the repo and share it with oth
 
 ## 📬 Contact
 **M.R.Vigneshwar**
+mrvigneshwar@icloud.com
 [@vigneshwarmr](https://github.com/vigneshwarmr)  
 Feel free to connect for questions, suggestions, or collaborations.
 
