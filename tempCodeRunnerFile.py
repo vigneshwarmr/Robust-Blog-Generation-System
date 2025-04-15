@@ -1,0 +1,1 @@
+llm = Llama(model_path=MODEL_PATH, n_ctx=2048)
